@@ -1,0 +1,1000 @@
+Teacher: Person: Laura, Age: 20, Subject: EE509, Experience: 19 years
+Student: Person: Noah, Age: 39, ID: 100, GPA: 3.53
+Teacher: Person: Rachel, Age: 19, Subject: EE369, Experience: 20 years
+Teacher: Person: Ethan, Age: 49, Subject: EE322, Experience: 5 years
+Teacher: Person: Sofia, Age: 62, Subject: EE408, Experience: 21 years
+Teacher: Person: William, Age: 36, Subject: EE516, Experience: 22 years
+Student: Person: Emma, Age: 62, ID: 101, GPA: 3.18
+Teacher: Person: Sarah, Age: 51, Subject: EE483, Experience: 31 years
+Student: Person: Lucas, Age: 33, ID: 102, GPA: 3.09
+Teacher: Person: Emma, Age: 61, Subject: EE546, Experience: 40 years
+Student: Person: Jessica, Age: 61, ID: 103, GPA: 3.36
+Teacher: Person: Nathan, Age: 47, Subject: EE496, Experience: 12 years
+Student: Person: Alexander, Age: 51, ID: 104, GPA: 3.98
+Teacher: Person: Rachel, Age: 59, Subject: EE596, Experience: 34 years
+Student: Person: David, Age: 24, ID: 105, GPA: 3.17
+Teacher: Person: Olivia, Age: 36, Subject: EE441, Experience: 34 years
+Teacher: Person: Benjamin, Age: 45, Subject: EE487, Experience: 34 years
+Student: Person: Ella, Age: 53, ID: 106, GPA: 3.24
+Teacher: Person: Kevin, Age: 50, Subject: EE512, Experience: 19 years
+Teacher: Person: Benjamin, Age: 24, Subject: EE488, Experience: 10 years
+Student: Person: Daniel, Age: 49, ID: 107, GPA: 3.37
+Student: Person: Emma, Age: 28, ID: 108, GPA: 3.53
+Teacher: Person: Jessica, Age: 49, Subject: EE368, Experience: 37 years
+Teacher: Person: Benjamin, Age: 33, Subject: EE561, Experience: 14 years
+Student: Person: Ava, Age: 38, ID: 109, GPA: 3.22
+Teacher: Person: James, Age: 44, Subject: EE496, Experience: 15 years
+Student: Person: Daniel, Age: 57, ID: 110, GPA: 3.12
+Teacher: Person: Sarah, Age: 18, Subject: EE371, Experience: 19 years
+Student: Person: Ella, Age: 30, ID: 111, GPA: 3.89
+Teacher: Person: Noah, Age: 41, Subject: EE300, Experience: 25 years
+Teacher: Person: Jacob, Age: 35, Subject: EE382, Experience: 39 years
+Teacher: Person: Mia, Age: 23, Subject: EE434, Experience: 27 years
+Teacher: Person: Noah, Age: 22, Subject: EE317, Experience: 18 years
+Student: Person: Liam, Age: 44, ID: 112, GPA: 3.29
+Student: Person: Lucas, Age: 24, ID: 113, GPA: 3.7
+Teacher: Person: David, Age: 53, Subject: EE402, Experience: 13 years
+Teacher: Person: Ava, Age: 43, Subject: EE304, Experience: 32 years
+Student: Person: Benjamin, Age: 33, ID: 114, GPA: 3.3
+Teacher: Person: Ava, Age: 21, Subject: EE444, Experience: 29 years
+Student: Person: Emma, Age: 24, ID: 115, GPA: 3.68
+Student: Person: Noah, Age: 64, ID: 116, GPA: 3.16
+Student: Person: Sarah, Age: 37, ID: 117, GPA: 3.73
+Teacher: Person: Laura, Age: 19, Subject: EE563, Experience: 24 years
+Student: Person: Sarah, Age: 30, ID: 118, GPA: 3.03
+Teacher: Person: Olivia, Age: 20, Subject: EE408, Experience: 5 years
+Teacher: Person: Benjamin, Age: 26, Subject: EE539, Experience: 31 years
+Teacher: Person: Jessica, Age: 29, Subject: EE519, Experience: 36 years
+Student: Person: Jessica, Age: 46, ID: 119, GPA: 3.54
+Student: Person: Daniel, Age: 60, ID: 120, GPA: 3.74
+Teacher: Person: Sofia, Age: 55, Subject: EE596, Experience: 7 years
+Teacher: Person: Alexander, Age: 28, Subject: EE512, Experience: 40 years
+Teacher: Person: Olivia, Age: 51, Subject: EE578, Experience: 39 years
+Student: Person: Nathan, Age: 47, ID: 121, GPA: 3.79
+Student: Person: Mia, Age: 23, ID: 122, GPA: 3.58
+Teacher: Person: Liam, Age: 41, Subject: EE488, Experience: 30 years
+Student: Person: Sarah, Age: 39, ID: 123, GPA: 3.77
+Student: Person: David, Age: 28, ID: 124, GPA: 3.01
+Student: Person: Ella, Age: 19, ID: 125, GPA: 3.08
+Student: Person: Benjamin, Age: 36, ID: 126, GPA: 3.9
+Student: Person: Alexander, Age: 63, ID: 127, GPA: 3.11
+Teacher: Person: Chloe, Age: 38, Subject: EE350, Experience: 18 years
+Teacher: Person: Jacob, Age: 56, Subject: EE489, Experience: 32 years
+Teacher: Person: Jessica, Age: 51, Subject: EE492, Experience: 10 years
+Teacher: Person: Noah, Age: 46, Subject: EE384, Experience: 36 years
+Teacher: Person: Isabella, Age: 19, Subject: EE345, Experience: 31 years
+Student: Person: William, Age: 52, ID: 128, GPA: 3.04
+Student: Person: Jacob, Age: 52, ID: 129, GPA: 3.24
+Student: Person: William, Age: 43, ID: 130, GPA: 3.77
+Student: Person: James, Age: 22, ID: 131, GPA: 3.18
+Student: Person: Ella, Age: 24, ID: 132, GPA: 3.16
+Student: Person: Ella, Age: 51, ID: 133, GPA: 3.03
+Teacher: Person: Alexander, Age: 37, Subject: EE330, Experience: 20 years
+Teacher: Person: Nathan, Age: 27, Subject: EE495, Experience: 39 years
+Teacher: Person: Kevin, Age: 51, Subject: EE575, Experience: 19 years
+Student: Person: Mia, Age: 19, ID: 134, GPA: 3.16
+Student: Person: Ethan, Age: 23, ID: 135, GPA: 3.35
+Teacher: Person: William, Age: 29, Subject: EE423, Experience: 12 years
+Student: Person: Daniel, Age: 34, ID: 136, GPA: 3.42
+Teacher: Person: Daniel, Age: 59, Subject: EE574, Experience: 40 years
+Student: Person: Sarah, Age: 37, ID: 137, GPA: 3.02
+Student: Person: Olivia, Age: 57, ID: 138, GPA: 3.83
+Teacher: Person: Sophia, Age: 33, Subject: EE301, Experience: 26 years
+Teacher: Person: Lucas, Age: 30, Subject: EE570, Experience: 21 years
+Teacher: Person: Ava, Age: 62, Subject: EE586, Experience: 27 years
+Teacher: Person: Olivia, Age: 61, Subject: EE582, Experience: 39 years
+Student: Person: Noah, Age: 52, ID: 139, GPA: 3.88
+Student: Person: David, Age: 50, ID: 140, GPA: 3.99
+Teacher: Person: Lily, Age: 42, Subject: EE330, Experience: 6 years
+Teacher: Person: Chloe, Age: 50, Subject: EE541, Experience: 27 years
+Student: Person: David, Age: 32, ID: 141, GPA: 3.46
+Teacher: Person: Liam, Age: 24, Subject: EE449, Experience: 23 years
+Student: Person: David, Age: 51, ID: 142, GPA: 3.19
+Student: Person: Emma, Age: 27, ID: 143, GPA: 3.15
+Teacher: Person: Alexander, Age: 37, Subject: EE474, Experience: 22 years
+Student: Person: Liam, Age: 36, ID: 144, GPA: 3.99
+Teacher: Person: Emma, Age: 60, Subject: EE449, Experience: 17 years
+Teacher: Person: Alexander, Age: 40, Subject: EE349, Experience: 13 years
+Student: Person: Mia, Age: 48, ID: 145, GPA: 3.21
+Teacher: Person: Kevin, Age: 39, Subject: EE457, Experience: 37 years
+Student: Person: Emily, Age: 19, ID: 146, GPA: 3.31
+Teacher: Person: William, Age: 63, Subject: EE585, Experience: 11 years
+Student: Person: Ella, Age: 64, ID: 147, GPA: 3.79
+Student: Person: Olivia, Age: 65, ID: 148, GPA: 3.52
+Student: Person: David, Age: 38, ID: 149, GPA: 3.41
+Teacher: Person: Andrew, Age: 42, Subject: EE547, Experience: 10 years
+Teacher: Person: William, Age: 40, Subject: EE436, Experience: 33 years
+Student: Person: Nathan, Age: 52, ID: 150, GPA: 3.84
+Student: Person: Daniel, Age: 62, ID: 151, GPA: 3.85
+Teacher: Person: Jessica, Age: 45, Subject: EE471, Experience: 40 years
+Student: Person: Emma, Age: 34, ID: 152, GPA: 3.95
+Student: Person: Liam, Age: 55, ID: 153, GPA: 3.39
+Student: Person: Isabella, Age: 33, ID: 154, GPA: 3.65
+Teacher: Person: Liam, Age: 25, Subject: EE581, Experience: 38 years
+Teacher: Person: Ella, Age: 27, Subject: EE572, Experience: 9 years
+Student: Person: Jacob, Age: 56, ID: 155, GPA: 3.01
+Teacher: Person: Ella, Age: 51, Subject: EE518, Experience: 38 years
+Student: Person: Sofia, Age: 39, ID: 156, GPA: 3.98
+Teacher: Person: Alice, Age: 27, Subject: EE559, Experience: 39 years
+Student: Person: Jacob, Age: 22, ID: 157, GPA: 3.75
+Teacher: Person: Nathan, Age: 33, Subject: EE355, Experience: 29 years
+Teacher: Person: Andrew, Age: 58, Subject: EE576, Experience: 27 years
+Teacher: Person: Liam, Age: 58, Subject: EE422, Experience: 23 years
+Teacher: Person: Sarah, Age: 40, Subject: EE311, Experience: 19 years
+Student: Person: Alexander, Age: 59, ID: 158, GPA: 3.59
+Student: Person: Lucas, Age: 24, ID: 159, GPA: 3.63
+Teacher: Person: Olivia, Age: 31, Subject: EE439, Experience: 20 years
+Student: Person: Isabella, Age: 18, ID: 160, GPA: 3.84
+Teacher: Person: Andrew, Age: 37, Subject: EE540, Experience: 28 years
+Teacher: Person: Noah, Age: 44, Subject: EE390, Experience: 14 years
+Teacher: Person: Andrew, Age: 65, Subject: EE524, Experience: 19 years
+Teacher: Person: Nathan, Age: 54, Subject: EE595, Experience: 11 years
+Student: Person: Jacob, Age: 50, ID: 161, GPA: 3.76
+Teacher: Person: Sophia, Age: 35, Subject: EE312, Experience: 36 years
+Teacher: Person: Isabella, Age: 61, Subject: EE564, Experience: 11 years
+Teacher: Person: Benjamin, Age: 58, Subject: EE577, Experience: 33 years
+Student: Person: Kevin, Age: 59, ID: 162, GPA: 3.16
+Student: Person: Jessica, Age: 30, ID: 163, GPA: 3.54
+Student: Person: Isabella, Age: 22, ID: 164, GPA: 3.92
+Teacher: Person: Jessica, Age: 46, Subject: EE547, Experience: 16 years
+Student: Person: Laura, Age: 44, ID: 165, GPA: 3.93
+Teacher: Person: Laura, Age: 19, Subject: EE418, Experience: 40 years
+Teacher: Person: Isabella, Age: 60, Subject: EE536, Experience: 10 years
+Student: Person: Daniel, Age: 57, ID: 166, GPA: 3.01
+Teacher: Person: Emily, Age: 62, Subject: EE386, Experience: 17 years
+Teacher: Person: Mia, Age: 55, Subject: EE514, Experience: 36 years
+Student: Person: Emma, Age: 35, ID: 167, GPA: 3.01
+Teacher: Person: William, Age: 50, Subject: EE453, Experience: 32 years
+Teacher: Person: Chloe, Age: 59, Subject: EE596, Experience: 18 years
+Student: Person: Alexander, Age: 18, ID: 168, GPA: 3.9
+Student: Person: Noah, Age: 58, ID: 169, GPA: 3.4
+Student: Person: Ethan, Age: 39, ID: 170, GPA: 3.08
+Student: Person: Ava, Age: 29, ID: 171, GPA: 3.65
+Student: Person: William, Age: 47, ID: 172, GPA: 3.48
+Student: Person: Lily, Age: 48, ID: 173, GPA: 3.35
+Teacher: Person: Olivia, Age: 61, Subject: EE475, Experience: 29 years
+Teacher: Person: Sophia, Age: 51, Subject: EE590, Experience: 29 years
+Teacher: Person: Lily, Age: 61, Subject: EE480, Experience: 16 years
+Student: Person: Mia, Age: 57, ID: 174, GPA: 3.88
+Teacher: Person: Olivia, Age: 40, Subject: EE307, Experience: 11 years
+Student: Person: Alice, Age: 35, ID: 175, GPA: 3.52
+Teacher: Person: Lily, Age: 34, Subject: EE465, Experience: 14 years
+Student: Person: Kevin, Age: 41, ID: 176, GPA: 3.57
+Teacher: Person: Sarah, Age: 59, Subject: EE429, Experience: 37 years
+Student: Person: James, Age: 26, ID: 177, GPA: 3.83
+Teacher: Person: Laura, Age: 37, Subject: EE359, Experience: 23 years
+Teacher: Person: Chloe, Age: 48, Subject: EE524, Experience: 15 years
+Teacher: Person: Jacob, Age: 26, Subject: EE362, Experience: 34 years
+Student: Person: Andrew, Age: 54, ID: 178, GPA: 3.28
+Teacher: Person: Daniel, Age: 22, Subject: EE382, Experience: 29 years
+Student: Person: Olivia, Age: 23, ID: 179, GPA: 3.12
+Teacher: Person: Nathan, Age: 55, Subject: EE377, Experience: 18 years
+Student: Person: Isabella, Age: 42, ID: 180, GPA: 3.34
+Student: Person: William, Age: 41, ID: 181, GPA: 3.85
+Teacher: Person: Emma, Age: 60, Subject: EE476, Experience: 20 years
+Teacher: Person: James, Age: 37, Subject: EE348, Experience: 15 years
+Teacher: Person: Rachel, Age: 63, Subject: EE420, Experience: 18 years
+Student: Person: James, Age: 50, ID: 182, GPA: 3.15
+Teacher: Person: Jessica, Age: 38, Subject: EE444, Experience: 29 years
+Teacher: Person: Mia, Age: 50, Subject: EE564, Experience: 23 years
+Teacher: Person: Sofia, Age: 19, Subject: EE470, Experience: 25 years
+Student: Person: Chloe, Age: 48, ID: 183, GPA: 3.06
+Student: Person: Sarah, Age: 47, ID: 184, GPA: 3.63
+Teacher: Person: James, Age: 45, Subject: EE471, Experience: 15 years
+Teacher: Person: Rachel, Age: 44, Subject: EE369, Experience: 28 years
+Teacher: Person: Ava, Age: 28, Subject: EE463, Experience: 8 years
+Student: Person: Lily, Age: 44, ID: 185, GPA: 3.11
+Teacher: Person: Mia, Age: 57, Subject: EE350, Experience: 35 years
+Teacher: Person: Sophia, Age: 52, Subject: EE488, Experience: 30 years
+Teacher: Person: Alexander, Age: 34, Subject: EE319, Experience: 34 years
+Student: Person: Sofia, Age: 25, ID: 186, GPA: 3.84
+Teacher: Person: Ethan, Age: 25, Subject: EE527, Experience: 33 years
+Student: Person: Andrew, Age: 39, ID: 187, GPA: 3.73
+Teacher: Person: Isabella, Age: 54, Subject: EE507, Experience: 10 years
+Teacher: Person: Rachel, Age: 36, Subject: EE592, Experience: 28 years
+Student: Person: Daniel, Age: 31, ID: 188, GPA: 3.55
+Student: Person: Kevin, Age: 26, ID: 189, GPA: 3.1
+Teacher: Person: Daniel, Age: 28, Subject: EE508, Experience: 6 years
+Student: Person: Ella, Age: 20, ID: 190, GPA: 3.86
+Student: Person: Olivia, Age: 50, ID: 191, GPA: 3.76
+Student: Person: Lily, Age: 27, ID: 192, GPA: 3.2
+Teacher: Person: Ava, Age: 48, Subject: EE345, Experience: 10 years
+Student: Person: Ava, Age: 62, ID: 193, GPA: 3.27
+Teacher: Person: Olivia, Age: 54, Subject: EE561, Experience: 10 years
+Student: Person: Chloe, Age: 63, ID: 194, GPA: 3.57
+Teacher: Person: Alice, Age: 46, Subject: EE392, Experience: 38 years
+Teacher: Person: Noah, Age: 28, Subject: EE387, Experience: 31 years
+Student: Person: Laura, Age: 32, ID: 195, GPA: 3.33
+Student: Person: Laura, Age: 30, ID: 196, GPA: 3.53
+Student: Person: Daniel, Age: 22, ID: 197, GPA: 3.43
+Teacher: Person: Noah, Age: 62, Subject: EE353, Experience: 40 years
+Student: Person: William, Age: 57, ID: 198, GPA: 3.5
+Student: Person: Nathan, Age: 59, ID: 199, GPA: 3.98
+Teacher: Person: Olivia, Age: 64, Subject: EE300, Experience: 15 years
+Teacher: Person: Chloe, Age: 35, Subject: EE340, Experience: 8 years
+Student: Person: Emily, Age: 41, ID: 200, GPA: 3.99
+Teacher: Person: Laura, Age: 63, Subject: EE497, Experience: 14 years
+Teacher: Person: Kevin, Age: 43, Subject: EE307, Experience: 28 years
+Student: Person: Alice, Age: 33, ID: 201, GPA: 3.69
+Teacher: Person: Jessica, Age: 43, Subject: EE594, Experience: 26 years
+Student: Person: Nathan, Age: 24, ID: 202, GPA: 3.96
+Teacher: Person: Andrew, Age: 19, Subject: EE555, Experience: 25 years
+Teacher: Person: Sofia, Age: 53, Subject: EE418, Experience: 27 years
+Teacher: Person: Alice, Age: 19, Subject: EE466, Experience: 5 years
+Student: Person: Jacob, Age: 30, ID: 203, GPA: 3.61
+Student: Person: David, Age: 41, ID: 204, GPA: 3.67
+Student: Person: Ethan, Age: 52, ID: 205, GPA: 3.22
+Student: Person: Ella, Age: 29, ID: 206, GPA: 3.6
+Student: Person: Ella, Age: 47, ID: 207, GPA: 3.19
+Teacher: Person: Olivia, Age: 32, Subject: EE422, Experience: 19 years
+Teacher: Person: Alexander, Age: 60, Subject: EE508, Experience: 39 years
+Student: Person: James, Age: 37, ID: 208, GPA: 3.35
+Teacher: Person: Ava, Age: 51, Subject: EE425, Experience: 27 years
+Teacher: Person: Laura, Age: 43, Subject: EE525, Experience: 10 years
+Teacher: Person: Ava, Age: 22, Subject: EE398, Experience: 14 years
+Teacher: Person: Nathan, Age: 48, Subject: EE344, Experience: 14 years
+Teacher: Person: Noah, Age: 45, Subject: EE383, Experience: 40 years
+Student: Person: Alexander, Age: 22, ID: 209, GPA: 3.52
+Student: Person: Sophia, Age: 37, ID: 210, GPA: 3.35
+Student: Person: Daniel, Age: 33, ID: 211, GPA: 3.21
+Student: Person: James, Age: 64, ID: 212, GPA: 3.6
+Student: Person: Noah, Age: 30, ID: 213, GPA: 3.45
+Student: Person: Emily, Age: 64, ID: 214, GPA: 3.45
+Student: Person: Ella, Age: 28, ID: 215, GPA: 3.19
+Student: Person: Andrew, Age: 51, ID: 216, GPA: 3.73
+Student: Person: Jacob, Age: 59, ID: 217, GPA: 3.74
+Student: Person: Emma, Age: 18, ID: 218, GPA: 3.84
+Teacher: Person: Kevin, Age: 24, Subject: EE514, Experience: 27 years
+Teacher: Person: Liam, Age: 44, Subject: EE379, Experience: 36 years
+Teacher: Person: Noah, Age: 56, Subject: EE404, Experience: 33 years
+Teacher: Person: Mia, Age: 38, Subject: EE504, Experience: 36 years
+Teacher: Person: Lily, Age: 33, Subject: EE375, Experience: 14 years
+Student: Person: Lucas, Age: 32, ID: 219, GPA: 3.13
+Student: Person: Laura, Age: 21, ID: 220, GPA: 3.08
+Student: Person: Jessica, Age: 27, ID: 221, GPA: 3.2
+Student: Person: Sarah, Age: 63, ID: 222, GPA: 3.4
+Student: Person: Rachel, Age: 55, ID: 223, GPA: 3.42
+Teacher: Person: Jacob, Age: 31, Subject: EE491, Experience: 12 years
+Student: Person: Mia, Age: 50, ID: 224, GPA: 3.6
+Student: Person: Ava, Age: 35, ID: 225, GPA: 3.75
+Student: Person: Sofia, Age: 49, ID: 226, GPA: 3.51
+Student: Person: Benjamin, Age: 32, ID: 227, GPA: 3.93
+Student: Person: James, Age: 61, ID: 228, GPA: 3.06
+Student: Person: Sophia, Age: 43, ID: 229, GPA: 3.14
+Student: Person: Jessica, Age: 47, ID: 230, GPA: 3.15
+Teacher: Person: Sophia, Age: 49, Subject: EE539, Experience: 10 years
+Teacher: Person: Lily, Age: 62, Subject: EE305, Experience: 19 years
+Student: Person: Nathan, Age: 47, ID: 231, GPA: 3.39
+Student: Person: Jessica, Age: 28, ID: 232, GPA: 3.64
+Student: Person: Daniel, Age: 26, ID: 233, GPA: 3.85
+Teacher: Person: Noah, Age: 26, Subject: EE514, Experience: 23 years
+Student: Person: Sophia, Age: 25, ID: 234, GPA: 3.08
+Teacher: Person: Lily, Age: 28, Subject: EE540, Experience: 40 years
+Student: Person: Noah, Age: 57, ID: 235, GPA: 3.04
+Teacher: Person: Mia, Age: 42, Subject: EE336, Experience: 7 years
+Teacher: Person: Emily, Age: 50, Subject: EE546, Experience: 21 years
+Student: Person: Chloe, Age: 52, ID: 236, GPA: 3.33
+Student: Person: William, Age: 23, ID: 237, GPA: 3.45
+Teacher: Person: Laura, Age: 46, Subject: EE393, Experience: 5 years
+Teacher: Person: Ethan, Age: 32, Subject: EE523, Experience: 27 years
+Teacher: Person: Daniel, Age: 36, Subject: EE507, Experience: 24 years
+Student: Person: David, Age: 51, ID: 238, GPA: 3.37
+Teacher: Person: Ava, Age: 54, Subject: EE559, Experience: 24 years
+Teacher: Person: Olivia, Age: 27, Subject: EE491, Experience: 11 years
+Teacher: Person: Alexander, Age: 20, Subject: EE478, Experience: 17 years
+Teacher: Person: Nathan, Age: 60, Subject: EE344, Experience: 31 years
+Teacher: Person: Daniel, Age: 46, Subject: EE561, Experience: 15 years
+Student: Person: Daniel, Age: 59, ID: 239, GPA: 3.5
+Teacher: Person: Kevin, Age: 18, Subject: EE306, Experience: 28 years
+Teacher: Person: Kevin, Age: 24, Subject: EE573, Experience: 35 years
+Student: Person: Emily, Age: 55, ID: 240, GPA: 3.73
+Student: Person: Laura, Age: 61, ID: 241, GPA: 3.37
+Student: Person: Emily, Age: 60, ID: 242, GPA: 3.25
+Teacher: Person: Sarah, Age: 65, Subject: EE383, Experience: 23 years
+Teacher: Person: James, Age: 59, Subject: EE455, Experience: 18 years
+Teacher: Person: Kevin, Age: 35, Subject: EE528, Experience: 19 years
+Teacher: Person: Jacob, Age: 63, Subject: EE385, Experience: 40 years
+Teacher: Person: Chloe, Age: 37, Subject: EE565, Experience: 6 years
+Student: Person: David, Age: 48, ID: 243, GPA: 3.56
+Teacher: Person: Laura, Age: 29, Subject: EE595, Experience: 20 years
+Student: Person: Sophia, Age: 23, ID: 244, GPA: 3.32
+Student: Person: Olivia, Age: 53, ID: 245, GPA: 3.3
+Teacher: Person: Sofia, Age: 52, Subject: EE600, Experience: 8 years
+Student: Person: Olivia, Age: 45, ID: 246, GPA: 3.47
+Student: Person: Olivia, Age: 32, ID: 247, GPA: 3.46
+Student: Person: Ella, Age: 51, ID: 248, GPA: 3.45
+Student: Person: David, Age: 28, ID: 249, GPA: 3.28
+Student: Person: James, Age: 61, ID: 250, GPA: 3.16
+Student: Person: Ethan, Age: 39, ID: 251, GPA: 3.26
+Student: Person: Jessica, Age: 61, ID: 252, GPA: 3.4
+Student: Person: Jacob, Age: 27, ID: 253, GPA: 3.37
+Student: Person: Sofia, Age: 31, ID: 254, GPA: 3.87
+Student: Person: Benjamin, Age: 30, ID: 255, GPA: 3.05
+Teacher: Person: James, Age: 22, Subject: EE427, Experience: 28 years
+Teacher: Person: Olivia, Age: 37, Subject: EE558, Experience: 33 years
+Student: Person: Sophia, Age: 62, ID: 256, GPA: 3.52
+Teacher: Person: David, Age: 34, Subject: EE413, Experience: 25 years
+Student: Person: Benjamin, Age: 51, ID: 257, GPA: 3.13
+Student: Person: Ava, Age: 54, ID: 258, GPA: 3.51
+Teacher: Person: Sophia, Age: 63, Subject: EE323, Experience: 6 years
+Student: Person: Lily, Age: 50, ID: 259, GPA: 3.78
+Teacher: Person: Nathan, Age: 55, Subject: EE427, Experience: 28 years
+Student: Person: Sofia, Age: 30, ID: 260, GPA: 3
+Teacher: Person: Nathan, Age: 57, Subject: EE435, Experience: 13 years
+Student: Person: Daniel, Age: 29, ID: 261, GPA: 3.22
+Teacher: Person: James, Age: 57, Subject: EE385, Experience: 19 years
+Student: Person: Alexander, Age: 62, ID: 262, GPA: 3.85
+Teacher: Person: Mia, Age: 42, Subject: EE573, Experience: 32 years
+Student: Person: David, Age: 55, ID: 263, GPA: 3.86
+Student: Person: Liam, Age: 25, ID: 264, GPA: 3.88
+Teacher: Person: Lucas, Age: 46, Subject: EE365, Experience: 37 years
+Student: Person: Daniel, Age: 26, ID: 265, GPA: 3.63
+Teacher: Person: Alexander, Age: 54, Subject: EE306, Experience: 15 years
+Student: Person: James, Age: 38, ID: 266, GPA: 3.88
+Teacher: Person: Chloe, Age: 51, Subject: EE522, Experience: 33 years
+Student: Person: Liam, Age: 42, ID: 267, GPA: 3.91
+Student: Person: Rachel, Age: 55, ID: 268, GPA: 3.4
+Student: Person: Sophia, Age: 59, ID: 269, GPA: 3.69
+Teacher: Person: Ethan, Age: 62, Subject: EE314, Experience: 20 years
+Teacher: Person: David, Age: 27, Subject: EE552, Experience: 14 years
+Teacher: Person: Nathan, Age: 63, Subject: EE359, Experience: 35 years
+Teacher: Person: Emma, Age: 64, Subject: EE431, Experience: 34 years
+Student: Person: Andrew, Age: 44, ID: 270, GPA: 3.98
+Student: Person: Lucas, Age: 56, ID: 271, GPA: 3.77
+Student: Person: Mia, Age: 64, ID: 272, GPA: 3.38
+Teacher: Person: Sofia, Age: 29, Subject: EE492, Experience: 26 years
+Teacher: Person: Andrew, Age: 29, Subject: EE410, Experience: 18 years
+Student: Person: Ava, Age: 35, ID: 273, GPA: 3.32
+Teacher: Person: Laura, Age: 27, Subject: EE370, Experience: 22 years
+Teacher: Person: Laura, Age: 47, Subject: EE440, Experience: 21 years
+Teacher: Person: Benjamin, Age: 47, Subject: EE532, Experience: 40 years
+Student: Person: Daniel, Age: 27, ID: 274, GPA: 3.23
+Student: Person: Mia, Age: 26, ID: 275, GPA: 3.53
+Student: Person: Ethan, Age: 52, ID: 276, GPA: 3.5
+Teacher: Person: Mia, Age: 49, Subject: EE588, Experience: 34 years
+Student: Person: Sofia, Age: 56, ID: 277, GPA: 3.07
+Student: Person: Benjamin, Age: 30, ID: 278, GPA: 3.66
+Student: Person: Olivia, Age: 24, ID: 279, GPA: 3.76
+Teacher: Person: Ella, Age: 62, Subject: EE585, Experience: 19 years
+Teacher: Person: Emily, Age: 60, Subject: EE520, Experience: 31 years
+Student: Person: Daniel, Age: 25, ID: 280, GPA: 3.59
+Teacher: Person: Lucas, Age: 21, Subject: EE556, Experience: 22 years
+Teacher: Person: Ella, Age: 61, Subject: EE572, Experience: 35 years
+Student: Person: Sarah, Age: 49, ID: 281, GPA: 3.88
+Teacher: Person: Andrew, Age: 55, Subject: EE506, Experience: 8 years
+Teacher: Person: Lily, Age: 49, Subject: EE373, Experience: 31 years
+Student: Person: Ethan, Age: 22, ID: 282, GPA: 3.23
+Student: Person: Isabella, Age: 29, ID: 283, GPA: 3.11
+Teacher: Person: Alexander, Age: 32, Subject: EE468, Experience: 25 years
+Teacher: Person: Alexander, Age: 50, Subject: EE393, Experience: 30 years
+Student: Person: Ava, Age: 45, ID: 284, GPA: 3.38
+Student: Person: Alice, Age: 62, ID: 285, GPA: 3.78
+Student: Person: Emily, Age: 27, ID: 286, GPA: 3.71
+Student: Person: Jacob, Age: 46, ID: 287, GPA: 3.08
+Teacher: Person: Isabella, Age: 40, Subject: EE573, Experience: 30 years
+Teacher: Person: Daniel, Age: 56, Subject: EE564, Experience: 32 years
+Student: Person: Ava, Age: 61, ID: 288, GPA: 3.25
+Teacher: Person: Noah, Age: 24, Subject: EE594, Experience: 9 years
+Student: Person: James, Age: 26, ID: 289, GPA: 3.14
+Student: Person: Rachel, Age: 63, ID: 290, GPA: 3.43
+Student: Person: Rachel, Age: 55, ID: 291, GPA: 3.09
+Student: Person: James, Age: 55, ID: 292, GPA: 3.29
+Teacher: Person: Jessica, Age: 65, Subject: EE577, Experience: 12 years
+Student: Person: Olivia, Age: 36, ID: 293, GPA: 3.87
+Teacher: Person: Benjamin, Age: 31, Subject: EE366, Experience: 15 years
+Student: Person: David, Age: 51, ID: 294, GPA: 3.45
+Student: Person: Liam, Age: 21, ID: 295, GPA: 3.06
+Teacher: Person: Lucas, Age: 29, Subject: EE495, Experience: 30 years
+Student: Person: Andrew, Age: 56, ID: 296, GPA: 3.28
+Teacher: Person: Sofia, Age: 32, Subject: EE508, Experience: 14 years
+Student: Person: Ethan, Age: 46, ID: 297, GPA: 3.19
+Student: Person: James, Age: 27, ID: 298, GPA: 3.44
+Teacher: Person: Kevin, Age: 22, Subject: EE302, Experience: 33 years
+Teacher: Person: Sophia, Age: 46, Subject: EE511, Experience: 22 years
+Student: Person: Alice, Age: 34, ID: 299, GPA: 3.18
+Student: Person: Jessica, Age: 62, ID: 300, GPA: 3.41
+Teacher: Person: Kevin, Age: 56, Subject: EE424, Experience: 22 years
+Student: Person: Jessica, Age: 42, ID: 301, GPA: 3.94
+Student: Person: Lucas, Age: 54, ID: 302, GPA: 3.36
+Teacher: Person: Jacob, Age: 40, Subject: EE481, Experience: 33 years
+Teacher: Person: Sophia, Age: 30, Subject: EE532, Experience: 30 years
+Teacher: Person: Rachel, Age: 32, Subject: EE422, Experience: 39 years
+Student: Person: Benjamin, Age: 59, ID: 303, GPA: 3.02
+Teacher: Person: Emma, Age: 19, Subject: EE408, Experience: 13 years
+Student: Person: Andrew, Age: 62, ID: 304, GPA: 3.24
+Teacher: Person: Kevin, Age: 64, Subject: EE402, Experience: 16 years
+Teacher: Person: David, Age: 60, Subject: EE377, Experience: 37 years
+Student: Person: Andrew, Age: 42, ID: 305, GPA: 3.1
+Teacher: Person: Ella, Age: 51, Subject: EE447, Experience: 8 years
+Teacher: Person: Ethan, Age: 44, Subject: EE570, Experience: 37 years
+Teacher: Person: Jessica, Age: 60, Subject: EE440, Experience: 31 years
+Student: Person: Olivia, Age: 44, ID: 306, GPA: 3.64
+Teacher: Person: Ava, Age: 37, Subject: EE588, Experience: 20 years
+Teacher: Person: Mia, Age: 53, Subject: EE387, Experience: 15 years
+Teacher: Person: Sofia, Age: 43, Subject: EE442, Experience: 22 years
+Teacher: Person: William, Age: 47, Subject: EE422, Experience: 22 years
+Student: Person: Ella, Age: 60, ID: 307, GPA: 3.04
+Teacher: Person: Noah, Age: 54, Subject: EE538, Experience: 9 years
+Teacher: Person: Nathan, Age: 23, Subject: EE519, Experience: 38 years
+Teacher: Person: Andrew, Age: 32, Subject: EE518, Experience: 25 years
+Student: Person: James, Age: 26, ID: 308, GPA: 3.05
+Teacher: Person: Sofia, Age: 65, Subject: EE453, Experience: 27 years
+Student: Person: Jessica, Age: 21, ID: 309, GPA: 3.39
+Student: Person: Jacob, Age: 49, ID: 310, GPA: 3.69
+Teacher: Person: Jessica, Age: 51, Subject: EE453, Experience: 5 years
+Teacher: Person: Chloe, Age: 57, Subject: EE536, Experience: 24 years
+Student: Person: Ella, Age: 56, ID: 311, GPA: 3.78
+Teacher: Person: Lily, Age: 36, Subject: EE442, Experience: 10 years
+Student: Person: Liam, Age: 62, ID: 312, GPA: 3.06
+Student: Person: Chloe, Age: 26, ID: 313, GPA: 3.27
+Teacher: Person: Emily, Age: 45, Subject: EE380, Experience: 37 years
+Teacher: Person: Ethan, Age: 20, Subject: EE305, Experience: 26 years
+Teacher: Person: Alexander, Age: 62, Subject: EE548, Experience: 25 years
+Teacher: Person: Sofia, Age: 50, Subject: EE380, Experience: 17 years
+Teacher: Person: Liam, Age: 22, Subject: EE491, Experience: 9 years
+Teacher: Person: Sarah, Age: 43, Subject: EE391, Experience: 29 years
+Teacher: Person: David, Age: 40, Subject: EE585, Experience: 36 years
+Student: Person: Emily, Age: 19, ID: 314, GPA: 3.01
+Student: Person: Daniel, Age: 25, ID: 315, GPA: 3.39
+Teacher: Person: Lily, Age: 55, Subject: EE587, Experience: 39 years
+Student: Person: Noah, Age: 40, ID: 316, GPA: 3.03
+Teacher: Person: Lucas, Age: 35, Subject: EE398, Experience: 38 years
+Teacher: Person: Liam, Age: 41, Subject: EE547, Experience: 10 years
+Student: Person: Ethan, Age: 37, ID: 317, GPA: 3.95
+Teacher: Person: Ava, Age: 36, Subject: EE496, Experience: 7 years
+Student: Person: Mia, Age: 34, ID: 318, GPA: 3.83
+Teacher: Person: Liam, Age: 36, Subject: EE510, Experience: 16 years
+Teacher: Person: Mia, Age: 25, Subject: EE339, Experience: 12 years
+Student: Person: Sophia, Age: 47, ID: 319, GPA: 3.33
+Student: Person: Sophia, Age: 43, ID: 320, GPA: 3.52
+Student: Person: Kevin, Age: 39, ID: 321, GPA: 3.14
+Student: Person: Jessica, Age: 50, ID: 322, GPA: 3.97
+Teacher: Person: Andrew, Age: 57, Subject: EE557, Experience: 24 years
+Teacher: Person: James, Age: 50, Subject: EE345, Experience: 20 years
+Teacher: Person: Alice, Age: 19, Subject: EE393, Experience: 11 years
+Student: Person: James, Age: 40, ID: 323, GPA: 3.33
+Teacher: Person: Emily, Age: 52, Subject: EE508, Experience: 10 years
+Teacher: Person: Daniel, Age: 47, Subject: EE309, Experience: 40 years
+Student: Person: Lily, Age: 59, ID: 324, GPA: 3.08
+Student: Person: Rachel, Age: 22, ID: 325, GPA: 3.97
+Teacher: Person: Benjamin, Age: 22, Subject: EE399, Experience: 26 years
+Teacher: Person: Olivia, Age: 37, Subject: EE442, Experience: 27 years
+Student: Person: Kevin, Age: 24, ID: 326, GPA: 3.31
+Teacher: Person: Alexander, Age: 58, Subject: EE586, Experience: 32 years
+Student: Person: Nathan, Age: 32, ID: 327, GPA: 3.47
+Teacher: Person: Nathan, Age: 46, Subject: EE500, Experience: 29 years
+Teacher: Person: Noah, Age: 48, Subject: EE508, Experience: 38 years
+Teacher: Person: Alexander, Age: 29, Subject: EE592, Experience: 28 years
+Teacher: Person: Jacob, Age: 50, Subject: EE527, Experience: 35 years
+Teacher: Person: Alexander, Age: 32, Subject: EE487, Experience: 7 years
+Student: Person: Lucas, Age: 24, ID: 328, GPA: 3.52
+Student: Person: Liam, Age: 24, ID: 329, GPA: 3.09
+Student: Person: Ethan, Age: 36, ID: 330, GPA: 3.46
+Student: Person: Ava, Age: 38, ID: 331, GPA: 3.99
+Teacher: Person: Andrew, Age: 35, Subject: EE517, Experience: 40 years
+Teacher: Person: William, Age: 31, Subject: EE547, Experience: 12 years
+Teacher: Person: Mia, Age: 56, Subject: EE489, Experience: 12 years
+Student: Person: Lily, Age: 31, ID: 332, GPA: 3.23
+Teacher: Person: Olivia, Age: 54, Subject: EE501, Experience: 18 years
+Teacher: Person: Sophia, Age: 24, Subject: EE421, Experience: 25 years
+Student: Person: Nathan, Age: 36, ID: 333, GPA: 3.03
+Teacher: Person: James, Age: 43, Subject: EE330, Experience: 20 years
+Student: Person: Emily, Age: 42, ID: 334, GPA: 3.6
+Teacher: Person: David, Age: 65, Subject: EE333, Experience: 30 years
+Student: Person: Ella, Age: 48, ID: 335, GPA: 3.67
+Teacher: Person: Ethan, Age: 62, Subject: EE422, Experience: 10 years
+Teacher: Person: Daniel, Age: 55, Subject: EE450, Experience: 18 years
+Teacher: Person: Lucas, Age: 43, Subject: EE401, Experience: 18 years
+Student: Person: Rachel, Age: 28, ID: 336, GPA: 3.97
+Student: Person: Lucas, Age: 34, ID: 337, GPA: 3.46
+Student: Person: Benjamin, Age: 37, ID: 338, GPA: 3.27
+Student: Person: William, Age: 32, ID: 339, GPA: 3.54
+Teacher: Person: Mia, Age: 26, Subject: EE596, Experience: 18 years
+Teacher: Person: Alice, Age: 43, Subject: EE546, Experience: 27 years
+Student: Person: Jessica, Age: 57, ID: 340, GPA: 3.39
+Teacher: Person: Isabella, Age: 58, Subject: EE444, Experience: 33 years
+Student: Person: James, Age: 42, ID: 341, GPA: 3.53
+Student: Person: William, Age: 61, ID: 342, GPA: 3.49
+Teacher: Person: Rachel, Age: 46, Subject: EE419, Experience: 7 years
+Student: Person: Chloe, Age: 60, ID: 343, GPA: 3.17
+Teacher: Person: Emma, Age: 30, Subject: EE335, Experience: 11 years
+Teacher: Person: William, Age: 32, Subject: EE413, Experience: 12 years
+Teacher: Person: Nathan, Age: 56, Subject: EE355, Experience: 14 years
+Student: Person: Lucas, Age: 26, ID: 344, GPA: 3.1
+Student: Person: Rachel, Age: 47, ID: 345, GPA: 3.58
+Student: Person: Chloe, Age: 64, ID: 346, GPA: 3.29
+Teacher: Person: Lily, Age: 57, Subject: EE329, Experience: 33 years
+Teacher: Person: Sophia, Age: 43, Subject: EE573, Experience: 23 years
+Student: Person: Sofia, Age: 23, ID: 347, GPA: 3.25
+Student: Person: Alice, Age: 41, ID: 348, GPA: 3.64
+Student: Person: Alexander, Age: 22, ID: 349, GPA: 3.16
+Student: Person: Isabella, Age: 59, ID: 350, GPA: 3.16
+Teacher: Person: Liam, Age: 45, Subject: EE304, Experience: 16 years
+Teacher: Person: Sofia, Age: 55, Subject: EE414, Experience: 28 years
+Teacher: Person: Alexander, Age: 56, Subject: EE362, Experience: 16 years
+Teacher: Person: Alice, Age: 48, Subject: EE534, Experience: 30 years
+Teacher: Person: Alice, Age: 52, Subject: EE515, Experience: 15 years
+Teacher: Person: Alice, Age: 44, Subject: EE456, Experience: 30 years
+Student: Person: Isabella, Age: 21, ID: 351, GPA: 3.93
+Student: Person: Kevin, Age: 36, ID: 352, GPA: 3.23
+Student: Person: Jacob, Age: 50, ID: 353, GPA: 3.45
+Student: Person: Emily, Age: 47, ID: 354, GPA: 3.2
+Teacher: Person: Ethan, Age: 50, Subject: EE461, Experience: 17 years
+Teacher: Person: Ella, Age: 61, Subject: EE326, Experience: 5 years
+Student: Person: Andrew, Age: 36, ID: 355, GPA: 3.85
+Student: Person: Liam, Age: 65, ID: 356, GPA: 3.6
+Student: Person: Kevin, Age: 64, ID: 357, GPA: 3.47
+Teacher: Person: Alice, Age: 45, Subject: EE326, Experience: 19 years
+Student: Person: Ethan, Age: 18, ID: 358, GPA: 3.27
+Student: Person: Lucas, Age: 55, ID: 359, GPA: 3.2
+Teacher: Person: Daniel, Age: 43, Subject: EE413, Experience: 12 years
+Teacher: Person: Alexander, Age: 18, Subject: EE301, Experience: 36 years
+Teacher: Person: David, Age: 53, Subject: EE548, Experience: 23 years
+Student: Person: Daniel, Age: 58, ID: 360, GPA: 3.04
+Teacher: Person: William, Age: 44, Subject: EE481, Experience: 9 years
+Teacher: Person: Kevin, Age: 40, Subject: EE570, Experience: 7 years
+Teacher: Person: Olivia, Age: 31, Subject: EE459, Experience: 8 years
+Student: Person: Emma, Age: 18, ID: 361, GPA: 3.36
+Teacher: Person: Ella, Age: 63, Subject: EE574, Experience: 8 years
+Student: Person: Mia, Age: 63, ID: 362, GPA: 3.88
+Student: Person: Laura, Age: 30, ID: 363, GPA: 3.76
+Teacher: Person: Lucas, Age: 41, Subject: EE534, Experience: 37 years
+Teacher: Person: Mia, Age: 22, Subject: EE318, Experience: 35 years
+Student: Person: James, Age: 38, ID: 364, GPA: 3.76
+Student: Person: Nathan, Age: 61, ID: 365, GPA: 3.57
+Teacher: Person: Noah, Age: 57, Subject: EE397, Experience: 32 years
+Student: Person: Lucas, Age: 27, ID: 366, GPA: 3.82
+Student: Person: Ethan, Age: 37, ID: 367, GPA: 3.09
+Student: Person: Rachel, Age: 42, ID: 368, GPA: 3.76
+Teacher: Person: David, Age: 35, Subject: EE355, Experience: 25 years
+Teacher: Person: Sarah, Age: 20, Subject: EE569, Experience: 19 years
+Student: Person: Mia, Age: 62, ID: 369, GPA: 3.63
+Student: Person: Ava, Age: 35, ID: 370, GPA: 3.66
+Student: Person: Sarah, Age: 45, ID: 371, GPA: 3.31
+Teacher: Person: Mia, Age: 52, Subject: EE592, Experience: 20 years
+Student: Person: Olivia, Age: 21, ID: 372, GPA: 3.96
+Student: Person: Sofia, Age: 24, ID: 373, GPA: 3.59
+Teacher: Person: Kevin, Age: 18, Subject: EE405, Experience: 13 years
+Student: Person: Laura, Age: 19, ID: 374, GPA: 3.29
+Teacher: Person: Nathan, Age: 37, Subject: EE566, Experience: 13 years
+Teacher: Person: Emma, Age: 45, Subject: EE501, Experience: 12 years
+Student: Person: Noah, Age: 28, ID: 375, GPA: 3.57
+Student: Person: Daniel, Age: 54, ID: 376, GPA: 3.94
+Teacher: Person: Noah, Age: 36, Subject: EE550, Experience: 25 years
+Teacher: Person: James, Age: 53, Subject: EE313, Experience: 36 years
+Teacher: Person: Kevin, Age: 47, Subject: EE568, Experience: 29 years
+Teacher: Person: Lily, Age: 58, Subject: EE371, Experience: 35 years
+Student: Person: Alexander, Age: 56, ID: 377, GPA: 3.01
+Teacher: Person: Benjamin, Age: 61, Subject: EE446, Experience: 21 years
+Student: Person: Andrew, Age: 52, ID: 378, GPA: 3.69
+Teacher: Person: Sophia, Age: 29, Subject: EE583, Experience: 11 years
+Student: Person: Isabella, Age: 45, ID: 379, GPA: 3.33
+Teacher: Person: David, Age: 54, Subject: EE533, Experience: 33 years
+Student: Person: Mia, Age: 65, ID: 380, GPA: 3.6
+Teacher: Person: Daniel, Age: 26, Subject: EE357, Experience: 39 years
+Student: Person: Isabella, Age: 35, ID: 381, GPA: 3.47
+Teacher: Person: Olivia, Age: 50, Subject: EE493, Experience: 18 years
+Student: Person: Ava, Age: 37, ID: 382, GPA: 3.54
+Teacher: Person: Emma, Age: 38, Subject: EE378, Experience: 11 years
+Teacher: Person: Chloe, Age: 51, Subject: EE326, Experience: 21 years
+Student: Person: Sophia, Age: 61, ID: 383, GPA: 3.14
+Student: Person: Kevin, Age: 59, ID: 384, GPA: 3.73
+Student: Person: Jacob, Age: 23, ID: 385, GPA: 3.27
+Student: Person: Alexander, Age: 52, ID: 386, GPA: 3.06
+Teacher: Person: Nathan, Age: 28, Subject: EE580, Experience: 12 years
+Student: Person: Olivia, Age: 19, ID: 387, GPA: 3.7
+Teacher: Person: Andrew, Age: 29, Subject: EE561, Experience: 38 years
+Student: Person: Rachel, Age: 27, ID: 388, GPA: 3.64
+Student: Person: Laura, Age: 61, ID: 389, GPA: 3.49
+Student: Person: Liam, Age: 52, ID: 390, GPA: 3.35
+Student: Person: Rachel, Age: 30, ID: 391, GPA: 3.92
+Student: Person: David, Age: 31, ID: 392, GPA: 3.19
+Teacher: Person: Ethan, Age: 49, Subject: EE579, Experience: 35 years
+Student: Person: Alexander, Age: 38, ID: 393, GPA: 3.89
+Student: Person: Noah, Age: 47, ID: 394, GPA: 3.02
+Teacher: Person: Emily, Age: 36, Subject: EE387, Experience: 18 years
+Teacher: Person: Lily, Age: 61, Subject: EE415, Experience: 15 years
+Teacher: Person: Alice, Age: 24, Subject: EE475, Experience: 39 years
+Teacher: Person: Emily, Age: 19, Subject: EE566, Experience: 32 years
+Student: Person: David, Age: 61, ID: 395, GPA: 3.34
+Teacher: Person: Andrew, Age: 49, Subject: EE438, Experience: 18 years
+Teacher: Person: Rachel, Age: 62, Subject: EE501, Experience: 20 years
+Teacher: Person: Sarah, Age: 58, Subject: EE538, Experience: 11 years
+Teacher: Person: Isabella, Age: 53, Subject: EE434, Experience: 28 years
+Teacher: Person: Chloe, Age: 41, Subject: EE307, Experience: 36 years
+Teacher: Person: Lucas, Age: 59, Subject: EE496, Experience: 27 years
+Student: Person: Alexander, Age: 47, ID: 396, GPA: 3.84
+Student: Person: Alexander, Age: 38, ID: 397, GPA: 3.95
+Teacher: Person: James, Age: 51, Subject: EE310, Experience: 8 years
+Student: Person: Jacob, Age: 65, ID: 398, GPA: 3.57
+Teacher: Person: Olivia, Age: 63, Subject: EE528, Experience: 19 years
+Teacher: Person: Liam, Age: 18, Subject: EE388, Experience: 28 years
+Teacher: Person: David, Age: 40, Subject: EE483, Experience: 27 years
+Teacher: Person: Nathan, Age: 42, Subject: EE445, Experience: 24 years
+Teacher: Person: Emma, Age: 58, Subject: EE406, Experience: 37 years
+Student: Person: Sarah, Age: 40, ID: 399, GPA: 3.26
+Teacher: Person: Sofia, Age: 30, Subject: EE597, Experience: 38 years
+Teacher: Person: Sofia, Age: 37, Subject: EE319, Experience: 9 years
+Student: Person: Kevin, Age: 47, ID: 400, GPA: 3.62
+Teacher: Person: Jessica, Age: 44, Subject: EE369, Experience: 37 years
+Teacher: Person: Liam, Age: 23, Subject: EE397, Experience: 38 years
+Teacher: Person: Isabella, Age: 44, Subject: EE406, Experience: 15 years
+Teacher: Person: Chloe, Age: 45, Subject: EE415, Experience: 26 years
+Teacher: Person: Sofia, Age: 35, Subject: EE565, Experience: 26 years
+Student: Person: Emma, Age: 43, ID: 401, GPA: 3.43
+Student: Person: Emma, Age: 62, ID: 402, GPA: 3.99
+Teacher: Person: Daniel, Age: 31, Subject: EE424, Experience: 26 years
+Student: Person: Alice, Age: 59, ID: 403, GPA: 3.77
+Teacher: Person: William, Age: 28, Subject: EE582, Experience: 17 years
+Teacher: Person: Ella, Age: 58, Subject: EE336, Experience: 32 years
+Student: Person: Alice, Age: 44, ID: 404, GPA: 3.58
+Student: Person: Rachel, Age: 18, ID: 405, GPA: 3.14
+Student: Person: Jessica, Age: 49, ID: 406, GPA: 3.8
+Student: Person: Ethan, Age: 59, ID: 407, GPA: 3.45
+Student: Person: Alice, Age: 38, ID: 408, GPA: 3.64
+Student: Person: Liam, Age: 52, ID: 409, GPA: 3.76
+Student: Person: Liam, Age: 49, ID: 410, GPA: 3.35
+Student: Person: Rachel, Age: 25, ID: 411, GPA: 3.71
+Student: Person: Rachel, Age: 52, ID: 412, GPA: 3.35
+Student: Person: Benjamin, Age: 34, ID: 413, GPA: 3.65
+Teacher: Person: Sarah, Age: 57, Subject: EE421, Experience: 26 years
+Student: Person: Jessica, Age: 41, ID: 414, GPA: 3.88
+Teacher: Person: James, Age: 19, Subject: EE527, Experience: 9 years
+Student: Person: Chloe, Age: 36, ID: 415, GPA: 3.3
+Teacher: Person: Sofia, Age: 26, Subject: EE434, Experience: 19 years
+Student: Person: Noah, Age: 27, ID: 416, GPA: 3.12
+Student: Person: Ella, Age: 34, ID: 417, GPA: 3.58
+Student: Person: Lucas, Age: 18, ID: 418, GPA: 3.34
+Teacher: Person: Andrew, Age: 55, Subject: EE377, Experience: 31 years
+Teacher: Person: David, Age: 50, Subject: EE309, Experience: 29 years
+Student: Person: Emma, Age: 18, ID: 419, GPA: 3.61
+Teacher: Person: Laura, Age: 43, Subject: EE567, Experience: 23 years
+Student: Person: Rachel, Age: 59, ID: 420, GPA: 3.04
+Student: Person: Ella, Age: 38, ID: 421, GPA: 3.47
+Teacher: Person: Alexander, Age: 32, Subject: EE575, Experience: 28 years
+Student: Person: Sophia, Age: 51, ID: 422, GPA: 3.85
+Teacher: Person: Chloe, Age: 36, Subject: EE537, Experience: 21 years
+Teacher: Person: David, Age: 65, Subject: EE308, Experience: 38 years
+Student: Person: Andrew, Age: 63, ID: 423, GPA: 3.07
+Teacher: Person: Jessica, Age: 60, Subject: EE424, Experience: 7 years
+Student: Person: Jessica, Age: 29, ID: 424, GPA: 3.74
+Student: Person: Ava, Age: 19, ID: 425, GPA: 3.49
+Student: Person: Ava, Age: 27, ID: 426, GPA: 3.25
+Teacher: Person: Isabella, Age: 62, Subject: EE543, Experience: 7 years
+Student: Person: Olivia, Age: 30, ID: 427, GPA: 3.19
+Student: Person: Ella, Age: 32, ID: 428, GPA: 3.26
+Teacher: Person: Emily, Age: 63, Subject: EE543, Experience: 9 years
+Student: Person: Daniel, Age: 53, ID: 429, GPA: 3.09
+Student: Person: Rachel, Age: 41, ID: 430, GPA: 3.89
+Student: Person: Mia, Age: 34, ID: 431, GPA: 3.26
+Teacher: Person: Sofia, Age: 45, Subject: EE580, Experience: 12 years
+Teacher: Person: Nathan, Age: 39, Subject: EE564, Experience: 38 years
+Teacher: Person: Ella, Age: 39, Subject: EE429, Experience: 32 years
+Student: Person: David, Age: 49, ID: 432, GPA: 3.94
+Student: Person: David, Age: 57, ID: 433, GPA: 3.47
+Teacher: Person: Olivia, Age: 40, Subject: EE424, Experience: 13 years
+Student: Person: Rachel, Age: 20, ID: 434, GPA: 3.48
+Teacher: Person: Rachel, Age: 40, Subject: EE595, Experience: 17 years
+Teacher: Person: Daniel, Age: 48, Subject: EE475, Experience: 30 years
+Student: Person: Ella, Age: 56, ID: 435, GPA: 3.06
+Teacher: Person: Sophia, Age: 56, Subject: EE428, Experience: 29 years
+Teacher: Person: James, Age: 53, Subject: EE393, Experience: 10 years
+Student: Person: Alice, Age: 41, ID: 436, GPA: 3.67
+Teacher: Person: David, Age: 51, Subject: EE501, Experience: 28 years
+Teacher: Person: Emily, Age: 34, Subject: EE400, Experience: 32 years
+Teacher: Person: Alexander, Age: 40, Subject: EE534, Experience: 19 years
+Teacher: Person: Mia, Age: 19, Subject: EE304, Experience: 13 years
+Student: Person: Rachel, Age: 47, ID: 437, GPA: 3.48
+Teacher: Person: Isabella, Age: 41, Subject: EE387, Experience: 34 years
+Student: Person: Nathan, Age: 29, ID: 438, GPA: 3.38
+Teacher: Person: Kevin, Age: 36, Subject: EE302, Experience: 22 years
+Student: Person: William, Age: 28, ID: 439, GPA: 3.05
+Student: Person: Andrew, Age: 61, ID: 440, GPA: 3.76
+Teacher: Person: David, Age: 44, Subject: EE433, Experience: 29 years
+Student: Person: Noah, Age: 57, ID: 441, GPA: 3.65
+Teacher: Person: Lily, Age: 54, Subject: EE350, Experience: 28 years
+Teacher: Person: Nathan, Age: 59, Subject: EE445, Experience: 27 years
+Teacher: Person: Mia, Age: 50, Subject: EE447, Experience: 20 years
+Teacher: Person: Sophia, Age: 61, Subject: EE498, Experience: 12 years
+Student: Person: Sophia, Age: 40, ID: 442, GPA: 3.03
+Student: Person: Mia, Age: 50, ID: 443, GPA: 3.81
+Student: Person: Emily, Age: 21, ID: 444, GPA: 3.65
+Student: Person: Daniel, Age: 58, ID: 445, GPA: 3.5
+Teacher: Person: Olivia, Age: 56, Subject: EE418, Experience: 35 years
+Student: Person: Liam, Age: 65, ID: 446, GPA: 3.01
+Student: Person: James, Age: 63, ID: 447, GPA: 3.74
+Teacher: Person: Mia, Age: 47, Subject: EE594, Experience: 38 years
+Teacher: Person: Emma, Age: 40, Subject: EE454, Experience: 37 years
+Teacher: Person: Nathan, Age: 55, Subject: EE317, Experience: 18 years
+Teacher: Person: Nathan, Age: 46, Subject: EE395, Experience: 19 years
+Student: Person: Alice, Age: 35, ID: 448, GPA: 3.18
+Teacher: Person: Noah, Age: 34, Subject: EE323, Experience: 34 years
+Student: Person: Nathan, Age: 49, ID: 449, GPA: 3.65
+Teacher: Person: Daniel, Age: 27, Subject: EE300, Experience: 38 years
+Teacher: Person: Laura, Age: 60, Subject: EE488, Experience: 6 years
+Student: Person: Emma, Age: 29, ID: 450, GPA: 3.42
+Student: Person: Andrew, Age: 48, ID: 451, GPA: 3.22
+Student: Person: Laura, Age: 64, ID: 452, GPA: 3.58
+Student: Person: Sarah, Age: 31, ID: 453, GPA: 3.86
+Student: Person: Sophia, Age: 37, ID: 454, GPA: 3.67
+Student: Person: Mia, Age: 42, ID: 455, GPA: 3.53
+Teacher: Person: Andrew, Age: 21, Subject: EE436, Experience: 28 years
+Teacher: Person: Ella, Age: 22, Subject: EE564, Experience: 26 years
+Teacher: Person: Kevin, Age: 59, Subject: EE550, Experience: 37 years
+Student: Person: Lucas, Age: 55, ID: 456, GPA: 3.2
+Teacher: Person: James, Age: 24, Subject: EE510, Experience: 19 years
+Teacher: Person: Chloe, Age: 59, Subject: EE521, Experience: 36 years
+Student: Person: Lucas, Age: 42, ID: 457, GPA: 3.83
+Teacher: Person: Andrew, Age: 36, Subject: EE463, Experience: 5 years
+Student: Person: Alice, Age: 22, ID: 458, GPA: 3.47
+Teacher: Person: Jacob, Age: 37, Subject: EE481, Experience: 40 years
+Student: Person: Lily, Age: 18, ID: 459, GPA: 3.1
+Student: Person: Lucas, Age: 57, ID: 460, GPA: 3.46
+Teacher: Person: Rachel, Age: 40, Subject: EE521, Experience: 9 years
+Teacher: Person: James, Age: 35, Subject: EE370, Experience: 23 years
+Teacher: Person: William, Age: 48, Subject: EE303, Experience: 35 years
+Student: Person: Ella, Age: 43, ID: 461, GPA: 3.78
+Teacher: Person: Alice, Age: 28, Subject: EE533, Experience: 38 years
+Student: Person: Liam, Age: 41, ID: 462, GPA: 3.14
+Student: Person: Alice, Age: 53, ID: 463, GPA: 3.6
+Teacher: Person: Ethan, Age: 64, Subject: EE399, Experience: 24 years
+Teacher: Person: Isabella, Age: 39, Subject: EE385, Experience: 7 years
+Student: Person: Lily, Age: 61, ID: 464, GPA: 3.69
+Student: Person: Mia, Age: 61, ID: 465, GPA: 3.12
+Student: Person: Sofia, Age: 42, ID: 466, GPA: 3.69
+Student: Person: Sofia, Age: 25, ID: 467, GPA: 3.58
+Student: Person: Emma, Age: 43, ID: 468, GPA: 3.7
+Student: Person: Mia, Age: 39, ID: 469, GPA: 3.3
+Teacher: Person: Emily, Age: 44, Subject: EE508, Experience: 34 years
+Student: Person: Rachel, Age: 27, ID: 470, GPA: 3.87
+Student: Person: Olivia, Age: 55, ID: 471, GPA: 3.85
+Student: Person: Emily, Age: 63, ID: 472, GPA: 3.98
+Teacher: Person: Alexander, Age: 18, Subject: EE590, Experience: 37 years
+Student: Person: Liam, Age: 59, ID: 473, GPA: 3.84
+Student: Person: Daniel, Age: 32, ID: 474, GPA: 3.22
+Teacher: Person: Sofia, Age: 24, Subject: EE388, Experience: 33 years
+Teacher: Person: Olivia, Age: 53, Subject: EE567, Experience: 19 years
+Student: Person: Andrew, Age: 55, ID: 475, GPA: 3.66
+Student: Person: Andrew, Age: 21, ID: 476, GPA: 3.6
+Student: Person: Sofia, Age: 48, ID: 477, GPA: 3.74
+Teacher: Person: Alice, Age: 63, Subject: EE405, Experience: 36 years
+Teacher: Person: Isabella, Age: 36, Subject: EE355, Experience: 34 years
+Student: Person: Noah, Age: 63, ID: 478, GPA: 3.42
+Student: Person: Lily, Age: 45, ID: 479, GPA: 3.96
+Teacher: Person: Kevin, Age: 39, Subject: EE415, Experience: 17 years
+Teacher: Person: Noah, Age: 24, Subject: EE527, Experience: 38 years
+Student: Person: Emily, Age: 40, ID: 480, GPA: 4
+Teacher: Person: Benjamin, Age: 60, Subject: EE503, Experience: 9 years
+Teacher: Person: Lily, Age: 25, Subject: EE597, Experience: 19 years
+Student: Person: Ava, Age: 50, ID: 481, GPA: 3.47
+Teacher: Person: Alexander, Age: 44, Subject: EE349, Experience: 13 years
+Student: Person: Sofia, Age: 22, ID: 482, GPA: 3.42
+Student: Person: Daniel, Age: 28, ID: 483, GPA: 3.24
+Student: Person: Benjamin, Age: 62, ID: 484, GPA: 3.06
+Teacher: Person: Rachel, Age: 60, Subject: EE363, Experience: 14 years
+Teacher: Person: Alice, Age: 62, Subject: EE435, Experience: 34 years
+Student: Person: Alice, Age: 37, ID: 485, GPA: 3.14
+Teacher: Person: Isabella, Age: 32, Subject: EE443, Experience: 5 years
+Student: Person: Ella, Age: 43, ID: 486, GPA: 3.66
+Teacher: Person: Andrew, Age: 38, Subject: EE514, Experience: 34 years
+Teacher: Person: Jacob, Age: 28, Subject: EE402, Experience: 17 years
+Teacher: Person: Kevin, Age: 55, Subject: EE387, Experience: 15 years
+Teacher: Person: Sofia, Age: 60, Subject: EE456, Experience: 6 years
+Student: Person: Lily, Age: 34, ID: 487, GPA: 3.14
+Student: Person: Emily, Age: 24, ID: 488, GPA: 3.85
+Student: Person: Jessica, Age: 46, ID: 489, GPA: 3.51
+Teacher: Person: Lily, Age: 20, Subject: EE563, Experience: 6 years
+Student: Person: Laura, Age: 40, ID: 490, GPA: 3.86
+Teacher: Person: Lily, Age: 41, Subject: EE386, Experience: 24 years
+Teacher: Person: Chloe, Age: 41, Subject: EE589, Experience: 31 years
+Student: Person: Olivia, Age: 51, ID: 491, GPA: 3.16
+Teacher: Person: Jacob, Age: 38, Subject: EE359, Experience: 15 years
+Teacher: Person: Sofia, Age: 44, Subject: EE499, Experience: 33 years
+Teacher: Person: Alexander, Age: 62, Subject: EE406, Experience: 37 years
+Student: Person: Chloe, Age: 29, ID: 492, GPA: 3.09
+Teacher: Person: Ella, Age: 21, Subject: EE504, Experience: 31 years
+Student: Person: David, Age: 54, ID: 493, GPA: 3.21
+Student: Person: Daniel, Age: 22, ID: 494, GPA: 3.9
+Teacher: Person: Alice, Age: 43, Subject: EE411, Experience: 29 years
+Teacher: Person: Sarah, Age: 37, Subject: EE546, Experience: 31 years
+Teacher: Person: Emily, Age: 36, Subject: EE548, Experience: 32 years
+Teacher: Person: Daniel, Age: 53, Subject: EE326, Experience: 40 years
+Teacher: Person: Isabella, Age: 51, Subject: EE584, Experience: 36 years
+Student: Person: Alice, Age: 57, ID: 495, GPA: 3.06
+Student: Person: Jessica, Age: 47, ID: 496, GPA: 3.89
+Student: Person: Emma, Age: 49, ID: 497, GPA: 3.62
+Teacher: Person: Benjamin, Age: 23, Subject: EE519, Experience: 32 years
+Student: Person: Alexander, Age: 46, ID: 498, GPA: 3.34
+Teacher: Person: Nathan, Age: 61, Subject: EE567, Experience: 10 years
+Teacher: Person: Laura, Age: 34, Subject: EE507, Experience: 25 years
+Student: Person: James, Age: 48, ID: 499, GPA: 3.78
+Teacher: Person: Emma, Age: 61, Subject: EE501, Experience: 17 years
+Teacher: Person: Rachel, Age: 35, Subject: EE480, Experience: 12 years
+Student: Person: Ethan, Age: 18, ID: 500, GPA: 3.68
+Student: Person: Liam, Age: 57, ID: 501, GPA: 3.79
+Student: Person: Laura, Age: 52, ID: 502, GPA: 3.47
+Teacher: Person: Olivia, Age: 34, Subject: EE543, Experience: 7 years
+Teacher: Person: James, Age: 25, Subject: EE465, Experience: 17 years
+Student: Person: Ethan, Age: 18, ID: 503, GPA: 3.68
+Teacher: Person: Jacob, Age: 57, Subject: EE563, Experience: 35 years
+Student: Person: Olivia, Age: 61, ID: 504, GPA: 3.48
+Teacher: Person: Benjamin, Age: 29, Subject: EE450, Experience: 8 years
+Student: Person: Emily, Age: 23, ID: 505, GPA: 3.76
+Student: Person: Rachel, Age: 31, ID: 506, GPA: 3.35
+Teacher: Person: Emily, Age: 36, Subject: EE363, Experience: 16 years
+Teacher: Person: Alexander, Age: 29, Subject: EE593, Experience: 34 years
+Student: Person: Nathan, Age: 49, ID: 507, GPA: 3.9
+Student: Person: Emma, Age: 64, ID: 508, GPA: 3.97
+Teacher: Person: Jacob, Age: 47, Subject: EE504, Experience: 27 years
+Student: Person: Lucas, Age: 47, ID: 509, GPA: 3.97
+Teacher: Person: Chloe, Age: 34, Subject: EE593, Experience: 36 years
+Student: Person: Daniel, Age: 52, ID: 510, GPA: 3.28
+Teacher: Person: Jacob, Age: 51, Subject: EE379, Experience: 20 years
+Teacher: Person: Mia, Age: 39, Subject: EE519, Experience: 8 years
+Student: Person: Ella, Age: 38, ID: 511, GPA: 3.11
+Student: Person: Chloe, Age: 28, ID: 512, GPA: 3.77
+Student: Person: Olivia, Age: 57, ID: 513, GPA: 3.64
+Teacher: Person: Daniel, Age: 25, Subject: EE333, Experience: 20 years
+Teacher: Person: Lucas, Age: 32, Subject: EE409, Experience: 11 years
+Student: Person: Laura, Age: 56, ID: 514, GPA: 3.69
+Student: Person: Daniel, Age: 32, ID: 515, GPA: 3.9
+Student: Person: Sofia, Age: 45, ID: 516, GPA: 3.95
+Student: Person: James, Age: 53, ID: 517, GPA: 3.96
+Student: Person: Emma, Age: 58, ID: 518, GPA: 3.75
+Student: Person: Ethan, Age: 27, ID: 519, GPA: 3.32
+Student: Person: Laura, Age: 21, ID: 520, GPA: 3.1
+Teacher: Person: Andrew, Age: 20, Subject: EE308, Experience: 16 years
+Student: Person: Emma, Age: 36, ID: 521, GPA: 3.2
+Teacher: Person: Benjamin, Age: 30, Subject: EE303, Experience: 16 years
+Student: Person: Mia, Age: 30, ID: 522, GPA: 3.78
+Student: Person: Olivia, Age: 57, ID: 523, GPA: 3.03
+Teacher: Person: Ethan, Age: 46, Subject: EE424, Experience: 29 years
+Student: Person: Jacob, Age: 56, ID: 524, GPA: 3.84
+Teacher: Person: Lucas, Age: 42, Subject: EE332, Experience: 13 years
+Teacher: Person: William, Age: 22, Subject: EE532, Experience: 16 years
+Student: Person: Jacob, Age: 29, ID: 525, GPA: 3.43
+Student: Person: Jessica, Age: 42, ID: 526, GPA: 3.51
+Student: Person: Noah, Age: 58, ID: 527, GPA: 3.08
+Teacher: Person: Rachel, Age: 63, Subject: EE306, Experience: 39 years
+Teacher: Person: Lily, Age: 37, Subject: EE461, Experience: 37 years
+Teacher: Person: Jessica, Age: 28, Subject: EE448, Experience: 25 years
+Student: Person: Jessica, Age: 30, ID: 528, GPA: 3.64
+Student: Person: Sarah, Age: 30, ID: 529, GPA: 3.21
+Teacher: Person: Isabella, Age: 20, Subject: EE484, Experience: 37 years
+Student: Person: Ava, Age: 18, ID: 530, GPA: 3.39
+Student: Person: Sarah, Age: 37, ID: 531, GPA: 3.42
+Teacher: Person: Isabella, Age: 39, Subject: EE493, Experience: 38 years
+Student: Person: Jacob, Age: 24, ID: 532, GPA: 3.69
+Student: Person: Andrew, Age: 52, ID: 533, GPA: 3.33
+Student: Person: Ethan, Age: 54, ID: 534, GPA: 3
+Teacher: Person: Laura, Age: 31, Subject: EE349, Experience: 5 years
+Student: Person: Laura, Age: 20, ID: 535, GPA: 3.4
+Student: Person: Sophia, Age: 31, ID: 536, GPA: 3.01
+Student: Person: William, Age: 51, ID: 537, GPA: 3.48
+Teacher: Person: Chloe, Age: 47, Subject: EE490, Experience: 23 years
+Student: Person: Noah, Age: 60, ID: 538, GPA: 3.32
+Teacher: Person: Ava, Age: 43, Subject: EE536, Experience: 32 years
+Teacher: Person: Jacob, Age: 65, Subject: EE580, Experience: 7 years
+Teacher: Person: Sarah, Age: 28, Subject: EE416, Experience: 37 years
+Teacher: Person: Jessica, Age: 24, Subject: EE424, Experience: 33 years
+Student: Person: Lily, Age: 53, ID: 539, GPA: 3.59
+Teacher: Person: Jessica, Age: 37, Subject: EE378, Experience: 21 years
+Teacher: Person: Sofia, Age: 46, Subject: EE564, Experience: 11 years
+Student: Person: Jacob, Age: 30, ID: 540, GPA: 3.4
+Teacher: Person: Andrew, Age: 40, Subject: EE490, Experience: 32 years
+Teacher: Person: Alice, Age: 49, Subject: EE339, Experience: 16 years
+Student: Person: Alexander, Age: 62, ID: 541, GPA: 3.59
+Teacher: Person: Jessica, Age: 29, Subject: EE562, Experience: 13 years
+Teacher: Person: Benjamin, Age: 30, Subject: EE348, Experience: 12 years
+Teacher: Person: Rachel, Age: 57, Subject: EE595, Experience: 34 years
+Teacher: Person: Noah, Age: 21, Subject: EE526, Experience: 32 years
+Teacher: Person: Emma, Age: 42, Subject: EE585, Experience: 18 years
+Teacher: Person: Laura, Age: 49, Subject: EE497, Experience: 13 years
+Student: Person: Kevin, Age: 26, ID: 542, GPA: 3.61
+Student: Person: Jacob, Age: 61, ID: 543, GPA: 3.24
+Teacher: Person: Sophia, Age: 18, Subject: EE514, Experience: 21 years
+Student: Person: Laura, Age: 61, ID: 544, GPA: 3.03
+Student: Person: Jacob, Age: 61, ID: 545, GPA: 3.99
+Teacher: Person: Isabella, Age: 31, Subject: EE552, Experience: 6 years
+Student: Person: Kevin, Age: 64, ID: 546, GPA: 3.82
+Student: Person: Emily, Age: 46, ID: 547, GPA: 3.95
+Teacher: Person: William, Age: 46, Subject: EE515, Experience: 15 years
+Student: Person: Alice, Age: 21, ID: 548, GPA: 3.67
+Teacher: Person: Rachel, Age: 46, Subject: EE381, Experience: 40 years
+Student: Person: Emily, Age: 59, ID: 549, GPA: 3.24
+Teacher: Person: Ethan, Age: 52, Subject: EE543, Experience: 11 years
+Student: Person: Emily, Age: 35, ID: 550, GPA: 3.51
+Teacher: Person: Liam, Age: 46, Subject: EE452, Experience: 25 years
+Student: Person: Daniel, Age: 56, ID: 551, GPA: 3.97
+Student: Person: Sarah, Age: 58, ID: 552, GPA: 3.62
+Student: Person: Ava, Age: 63, ID: 553, GPA: 3.81
+Student: Person: Ava, Age: 46, ID: 554, GPA: 3.42
+Student: Person: Noah, Age: 65, ID: 555, GPA: 3.96
+Teacher: Person: Sofia, Age: 26, Subject: EE414, Experience: 21 years
+Teacher: Person: Jessica, Age: 46, Subject: EE506, Experience: 27 years
+Student: Person: Mia, Age: 19, ID: 556, GPA: 3.87
+Teacher: Person: Sarah, Age: 48, Subject: EE425, Experience: 5 years
+Student: Person: William, Age: 63, ID: 557, GPA: 3.12
+Teacher: Person: Ella, Age: 50, Subject: EE373, Experience: 15 years
+Student: Person: Kevin, Age: 25, ID: 558, GPA: 3.87
+Teacher: Person: Nathan, Age: 39, Subject: EE413, Experience: 30 years
+Teacher: Person: Nathan, Age: 38, Subject: EE499, Experience: 40 years
+Teacher: Person: William, Age: 28, Subject: EE520, Experience: 10 years
+Student: Person: David, Age: 59, ID: 559, GPA: 3.15
+Teacher: Person: Alexander, Age: 65, Subject: EE370, Experience: 5 years
+Teacher: Person: Olivia, Age: 60, Subject: EE542, Experience: 6 years
+Student: Person: Olivia, Age: 44, ID: 560, GPA: 3.79
+Student: Person: Benjamin, Age: 27, ID: 561, GPA: 3.51
+Student: Person: Laura, Age: 47, ID: 562, GPA: 3.89
+Student: Person: Ella, Age: 21, ID: 563, GPA: 3.75
+Teacher: Person: Lucas, Age: 18, Subject: EE489, Experience: 27 years
+Teacher: Person: Sofia, Age: 41, Subject: EE471, Experience: 12 years
+Teacher: Person: Olivia, Age: 64, Subject: EE388, Experience: 9 years
+Teacher: Person: Andrew, Age: 19, Subject: EE492, Experience: 21 years
+Student: Person: Andrew, Age: 29, ID: 564, GPA: 3.38
+Teacher: Person: Benjamin, Age: 36, Subject: EE553, Experience: 5 years
+Teacher: Person: Lily, Age: 45, Subject: EE558, Experience: 34 years
+Student: Person: Emily, Age: 20, ID: 565, GPA: 3.27
+Student: Person: David, Age: 62, ID: 566, GPA: 3.39
+Teacher: Person: Sophia, Age: 24, Subject: EE482, Experience: 23 years
+Teacher: Person: Olivia, Age: 28, Subject: EE525, Experience: 39 years
+Teacher: Person: Emma, Age: 20, Subject: EE447, Experience: 11 years
+Teacher: Person: Kevin, Age: 60, Subject: EE430, Experience: 7 years
+Teacher: Person: Jessica, Age: 43, Subject: EE333, Experience: 6 years
+Student: Person: Liam, Age: 22, ID: 567, GPA: 3.21
+Teacher: Person: Jacob, Age: 35, Subject: EE575, Experience: 38 years
+Student: Person: Noah, Age: 52, ID: 568, GPA: 3.73
+Teacher: Person: Sophia, Age: 58, Subject: EE384, Experience: 10 years
+Student: Person: Mia, Age: 44, ID: 569, GPA: 3.02
+Teacher: Person: Benjamin, Age: 55, Subject: EE370, Experience: 37 years
+Student: Person: Jacob, Age: 48, ID: 570, GPA: 3.96
+Teacher: Person: Emma, Age: 61, Subject: EE454, Experience: 31 years
+Teacher: Person: Lucas, Age: 60, Subject: EE374, Experience: 40 years
+Teacher: Person: Andrew, Age: 31, Subject: EE513, Experience: 14 years
+Student: Person: Chloe, Age: 29, ID: 571, GPA: 3.29
+Teacher: Person: Sophia, Age: 28, Subject: EE541, Experience: 32 years
+Student: Person: Ethan, Age: 62, ID: 572, GPA: 3.85
+Student: Person: David, Age: 32, ID: 573, GPA: 3.06
+Teacher: Person: Sofia, Age: 58, Subject: EE427, Experience: 9 years
+Student: Person: Jessica, Age: 61, ID: 574, GPA: 3.81
+Teacher: Person: Daniel, Age: 41, Subject: EE573, Experience: 12 years
+Student: Person: Emma, Age: 54, ID: 575, GPA: 3.3
+Teacher: Person: Rachel, Age: 57, Subject: EE475, Experience: 32 years
+Teacher: Person: Daniel, Age: 57, Subject: EE386, Experience: 39 years
+Teacher: Person: Sophia, Age: 18, Subject: EE527, Experience: 35 years
+Student: Person: Alexander, Age: 59, ID: 576, GPA: 3.73
+Teacher: Person: Lily, Age: 50, Subject: EE501, Experience: 22 years
+Teacher: Person: Emily, Age: 40, Subject: EE523, Experience: 26 years
+Teacher: Person: Ava, Age: 37, Subject: EE484, Experience: 38 years
+Student: Person: Sarah, Age: 59, ID: 577, GPA: 3.87
+Teacher: Person: Isabella, Age: 29, Subject: EE436, Experience: 6 years
+Teacher: Person: Jessica, Age: 24, Subject: EE391, Experience: 9 years
+Teacher: Person: Jessica, Age: 18, Subject: EE371, Experience: 8 years
+Teacher: Person: Lily, Age: 43, Subject: EE344, Experience: 33 years
+Student: Person: Sarah, Age: 43, ID: 578, GPA: 3.76
+Student: Person: Emma, Age: 35, ID: 579, GPA: 3.41
+Student: Person: Lily, Age: 44, ID: 580, GPA: 3.19
+Student: Person: Ella, Age: 53, ID: 581, GPA: 3.95
+Teacher: Person: Sofia, Age: 49, Subject: EE499, Experience: 19 years
+Student: Person: Emma, Age: 53, ID: 582, GPA: 3.2
+Teacher: Person: Ava, Age: 33, Subject: EE468, Experience: 32 years
+Teacher: Person: Andrew, Age: 54, Subject: EE584, Experience: 18 years
+Student: Person: Isabella, Age: 42, ID: 583, GPA: 3.83
+Student: Person: Daniel, Age: 36, ID: 584, GPA: 3.57
+Student: Person: Rachel, Age: 63, ID: 585, GPA: 3.51
+Student: Person: Ella, Age: 64, ID: 586, GPA: 3.97
+Student: Person: Liam, Age: 18, ID: 587, GPA: 3.45
+Teacher: Person: David, Age: 60, Subject: EE499, Experience: 11 years
+Teacher: Person: Kevin, Age: 40, Subject: EE455, Experience: 39 years
+Teacher: Person: Jessica, Age: 33, Subject: EE328, Experience: 12 years
+Teacher: Person: Kevin, Age: 43, Subject: EE551, Experience: 25 years
+Student: Person: Sophia, Age: 59, ID: 588, GPA: 3.76
+Teacher: Person: Rachel, Age: 30, Subject: EE411, Experience: 11 years
+Teacher: Person: Ella, Age: 45, Subject: EE352, Experience: 32 years
+Student: Person: Laura, Age: 46, ID: 589, GPA: 3.69
+Student: Person: James, Age: 39, ID: 590, GPA: 3.68
+Teacher: Person: Kevin, Age: 20, Subject: EE324, Experience: 7 years
+Student: Person: Ella, Age: 61, ID: 591, GPA: 3.9
+Student: Person: William, Age: 36, ID: 592, GPA: 3.4
+Teacher: Person: Ava, Age: 65, Subject: EE357, Experience: 26 years
+Student: Person: Ethan, Age: 61, ID: 593, GPA: 3.64
