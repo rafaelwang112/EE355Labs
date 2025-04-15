@@ -41,3 +41,15 @@ void Date::print_date(){
     cout << Months[month] << " " << day << ", " << year << endl; // print date in the format "Month day, year"`
 
 }
+
+int Date::get_month() const{
+    return month;}
+    
+ int Date::get_day() const{
+    return day;}
+    
+ int Date::get_year() const{
+    return year;}
+    
+   
+

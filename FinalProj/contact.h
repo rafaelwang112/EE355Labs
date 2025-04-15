@@ -18,10 +18,10 @@ example print() output:
 */
 class Contact {
 protected:
-	string type;        
+	std::string type;        
 public:
 	virtual void print() = 0;
-    virtual string get_contact(string style="full") = 0;
+    virtual std::string get_contact(std::string style="full") = 0;
 	virtual void set_contact() = 0;
 };
 
@@ -30,13 +30,13 @@ public:
 
 class Email: public Contact{
 private:
-    string email_addr;
+    std::string email_addr;
     //other attributes
 public:
-    Email(string type, string email_addr);  
-    void print() override;                  
-    string get_contact(string style = "full") override; 
-    void set_contact() override;
+    Email(std::string type, std::string email_addr);  
+    void print();                  
+    std::string get_contact(std::string style = "full"); 
+    void set_contact();
 };
 
 
@@ -45,13 +45,13 @@ public:
 
 class Phone: public Contact{
 private:
-    string phone_num;
+    std::string phone_num;
     //other attributes 
 public:
-    Phone(string type, string phone_number);  
-    void print() override;                   
-    string get_contact(string style = "full") override; 
-    void set_contact() override;          
+    Phone(std::string type, std::string phone_number);  
+    void print();                   
+    std::string get_contact(std::string style = "full"); 
+    void set_contact();          
 };
 
 #endif

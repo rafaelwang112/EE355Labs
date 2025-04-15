@@ -1,3 +1,4 @@
+
 #include "network.h"
 #include <limits>
 #include "misc.h"
@@ -309,3 +310,4 @@ void Network::showMenu(){
         cout << "\033[2J\033[1;1H";
     }
 }
+

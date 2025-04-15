@@ -6,15 +6,14 @@
 #include "contact.h"
 #include "fstream"
 #include <string>
-using namespace std;
 
 class Person{
     friend class Network;
 
 private:
-	string f_name;
-	string l_name;
-	Date *birthdate;
+    std::string f_name;
+    std::string l_name;
+    Date *birthdate;
     Email *email;
     Phone *phone;
     // the following to attributes are used in the linked list.
@@ -24,11 +23,11 @@ private:
 public: 
     Person();
     ~Person();
-    Person(string filename);
-    Person(string f_name, string l_name, string b_date, string email, string phone);
+    Person(std::string filename);
+    Person(std::string f_name, std::string l_name, std::string b_date, std::string email, std::string phone);
 	void print_person();
 	void set_person();
-	void set_person(string filename);
+	void set_person(std::string filename);
     bool operator==(const Person& rhs);
     bool operator!=(const Person& rhs);
 };
