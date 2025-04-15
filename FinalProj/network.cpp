@@ -1,8 +1,8 @@
-
 #include "network.h"
 #include <limits>
 #include "misc.h"
 #include <fstream>
+#include <iostream>
 
 Network::Network(){
     head = NULL;
@@ -41,22 +41,22 @@ Person* Network::search(Person* searchEntry){
 }
 
 
-Person* Network::search(Person* searchEntry){
-    // Searches the Network for searchEntry
+Person* Network::search(string fname, string lname){
+    // New == for Person, only based on fname and lname
     // if found, returns a pointer to it, else returns NULL
     // TODO: Complete this method
+    // Note: two ways to implement this, 1st making a new Person with fname and lname and and using search(Person*), 2nd using fname and lname directly. 
     Person* traverse = head;
     if (head==nullptr){
         return nullptr;
     }
-    while (traverse!=searchEntry){
+    while (traverse->f_name!=fname && traverse->l_name!=lname){
         traverse = traverse->next;
         if (traverse == nullptr){
             return nullptr;
         }
     }
     return traverse;
-
 }
 
 
@@ -68,9 +68,9 @@ void Network::loadDB(string filename){
         return;
     }
 
-    string fname, lname, bdate; // Assuming these are the fields
-    while (file >> fname >> lname >> bdate) { // Adjust this based on your data format
-        Person* newPerson = new Person(fname, lname, bdate);
+    string fname, lname, bdate, email, phone; // Assuming these are the fields
+    while (file >> fname >> lname >> bdate>> email >>phone) { // Adjust this based on your data format
+        Person* newPerson = new Person(fname, lname, bdate, email, phone);
         push_back(newPerson); // Add person to the network
     }
     file.close();
@@ -218,6 +218,8 @@ void Network::showMenu(){
             // Save the network database into the file with the given name,
             // with each person saved in the format the save as printing out the person info,
             // and people are delimited similar to "networkDB.txt" format
+            getline(cin, fileName);
+            saveDB(fileName);
             cout << "Network saved in " << fileName << endl;
         }
         else if (opt==2){
@@ -226,11 +228,17 @@ void Network::showMenu(){
             // TODO: print all the files in this same directory that have "networkDB.txt" format
             // print format: one filename one line.
             // This step just shows all the available .txt file to load.
+            string filename;
             cout << "Enter the name of the load file: "; 
+            cin >> filename;
             // If file with name FILENAME does not exist: 
-            cout << "File FILENAME does not exist!" << endl;
-            // If file is loaded successfully, also print the count of people in it: 
-            cout << "Network loaded from " << fileName << " with " << count << " people \n";
+            if (!(ifstream(filename))){
+                cout << "File FILENAME does not exist!" << endl;
+            }
+            else{
+                    // If file is loaded successfully, also print the count of people in it: 
+                cout << "Network loaded from " << fileName << " with " << count << " people \n";
+            }
         }
         else if (opt == 3){
             // TODO: Complete me!
@@ -272,6 +280,7 @@ void Network::showMenu(){
             // if not found: cout << "Person not found! \n";
             cout << "Print people with last name \n";
             cout << "Last name: ";
+            string l_name;
             cin >> l_name;
 
             bool found = false;
@@ -300,4 +309,3 @@ void Network::showMenu(){
         cout << "\033[2J\033[1;1H";
     }
 }
-
